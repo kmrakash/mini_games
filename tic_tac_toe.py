@@ -70,3 +70,4 @@ def play():
         print(numpy.matrix(board))
         print("Draw")                  
 play()
+        
