@@ -20,5 +20,4 @@ with open("test.txt") as f:
             data = c
         file.write(data)
 file.close()            
-a = open("encoded.txt",'r')
-print(a.read())      
+      
